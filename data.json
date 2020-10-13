@@ -1,0 +1,35 @@
+{
+  "name": "npmloves",
+  "version": "1.0.0",
+  "description": "npmloves is a npm library created to show all my love and crearivity to Sara Maria Bejarano the love of my live",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsprieto10/npmloves.git"
+  },
+  "keywords": [
+    "Sara",
+    "Maria",
+    "Bejarano",
+    "love",
+    "pyloves",
+    "npmloves",
+    "npm",
+    "love"
+  ],
+  "author": "jsprieto10",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsprieto10/npmloves/issues"
+  },
+  "homepage": "https://github.com/jsprieto10/npmloves#readme",
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "btoa": "^1.2.1",
+    "fernet": "^0.3.1",
+    "pbkdf2-hmac": "^1.0.2"
+  }
+}
